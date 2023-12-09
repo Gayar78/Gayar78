@@ -1,12 +1,13 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=004687&fontColor=e4e4e4&height=300&section=header&text=Gayar%20%20&fontSize=70&animation=fadeIn&fontAlignY=28&desc=Computer%20Science%20Student&descAlignY=51&descAlign=50)
+![header](https://capsule-render.vercel.app/api?type=waving&color=870046&fontColor=e4e4e4&height=300&section=header&text=Gayar%20%20&fontSize=70&animation=fadeIn&fontAlignY=28&desc=Computer%20Science%20Student&descAlignY=51&descAlign=50)
 
 # 🙋🏻‍♂️ About me
 
 Hi 👋, I'm Gayar, I'm a French student in computer science at the University Paris Saclay.
 
 🌱 I’m currently learning 
-  - Programming
   - Algorithmic
+  - AI
+  - Programming
   - Web development
   - Database
 <br/>
