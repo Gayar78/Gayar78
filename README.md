@@ -16,12 +16,15 @@ Hi 👋, I'm Gayar, I'm a French student in computer science at the University P
 <a href="https://github.com/Gayar78" target="_blank">
 <img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
 </a>
+</a>
+<a href="https://www.linkedin.com/in/remi-thibault-multi-language-software-developer/" target="_blank" >
+<img src="https://img.shields.io/badge/-Linkedin-1919a0?style=for-the-badge&logo=Linkedin&logoColor=white"/>    
+</a>
 <a href="https://www.instagram.com/Gayar3.78/" target="_blank">
 <img src=https://img.shields.io/badge/instagram-%23000000.svg?&style=for-the-badge&logo=instagram&logoColor=white alt=instagram style="margin-bottom: 5px;" />
 </a> 
 <a href="mailto:remi.thibault@outlook.fr" target="_blank" >
 <img src="https://img.shields.io/badge/-Outlook-1919a0?style=for-the-badge&logo=Outlook&logoColor=white"/>    
-</a>
 </div>  
 <br/>
 
