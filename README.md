@@ -1,16 +1,18 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=808080&fontColor=e4e4e4&height=300&section=header&text=Gayar%20%20&fontSize=70&animation=fadeIn&fontAlignY=28&desc=Computer%20Science%20Student&descAlignY=51&descAlign=50)
 
 <h1 align="center"> 🙋🏻‍♂️ About me </h1>
+<div align="center">
+<h2>Hi 👋, I'm Gayar, I'm a French student in computer science at the University Paris Saclay.</h2>
+</div>
+<p>🌱 I am currently learning : </p>
 
-Hi 👋, I'm Gayar, I'm a French student in computer science at the University Paris Saclay.
+- ⭐⭐⭐`Algorithmic`  
+- ⭐⭐⭐`Artificial Inteligence`   
+- ⭐⭐⭐Mathematics  
+- ⭐⭐Web development  
+- ⭐Database  
 
-🌱 I am currently learning 
-  - ⭐⭐⭐`Algorithmic`
-  - ⭐⭐⭐`Artificial Inteligence`
-  - ⭐⭐⭐Mathematics
-  - ⭐⭐Web development
-  - ⭐Database
-<br/>
+
 
 <h1 align="center">🚀 Connect with me  <h1>
 <div align="center">
@@ -28,7 +30,7 @@ Hi 👋, I'm Gayar, I'm a French student in computer science at the University P
 
 <h1 align="center"> 🧰 Languages and Tools <h1>
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=github,git" />
+    <img src="https://skillicons.dev/icons?i=github,git" /> <img alt="jetbrains" width="55px" style="padding-right:55px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jetbrains/jetbrains-original.svg" />   
 </div>
 <div align="center">
     <img src="https://skillicons.dev/icons?i=python" />
@@ -39,9 +41,15 @@ Hi 👋, I'm Gayar, I'm a French student in computer science at the University P
 <div align="center">
     <img src="https://skillicons.dev/icons?i=c" /> <img alt="C++" width="55px" style="padding-right:55px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-line.svg" /> <img alt="C#" width="55px" style="padding-right:55px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-line.svg" />
 </div>
-</div>
-  <div align="center">
+<div align="center">
     <img src="https://skillicons.dev/icons?i=java" />
+</div>
+<div align="center">
+    <img alt="Sqlite" width="55px" style="padding-right:55px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" />
+    <img alt="Oracle" width="55px" style="padding-right:55px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/oracle/oracle-original.svg" />
+</div>
+<div align="center">
+    <img src="https://skillicons.dev/icons?i=linux"/> <img alt="ubuntu" width="55px" style="padding-right:55px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ubuntu/ubuntu-plain-wordmark.svg" /> 
 </div>
 
           
