@@ -1,7 +1,7 @@
 ![MasterHead](https://user-images.githubusercontent.com/95478989/198955082-6e78ebb5-e1e4-49f9-8d32-6e5af3984dcd.gif)
 <h1 align="center">Hi 👋, I'm Gayar</h1>
 <div align="center">
-<h2>Hi 👋, I'm Gayar, I'm a French student in computer science at the University Paris Saclay.</h2>
+<h2>I'm a French student in computer science at the University Paris Saclay.</h2>
 </div>
 <p>🌱 I am currently learning : </p>
 
