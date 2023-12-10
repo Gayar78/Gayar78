@@ -1,6 +1,5 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=808080&fontColor=e4e4e4&height=300&section=header&text=Gayar%20%20&fontSize=70&animation=fadeIn&fontAlignY=28&desc=Computer%20Science%20Student&descAlignY=51&descAlign=50)
-
-<h1 align="center"> 🙋🏻‍♂️ About me </h1>
+![MasterHead](https://user-images.githubusercontent.com/95478989/198955082-6e78ebb5-e1e4-49f9-8d32-6e5af3984dcd.gif)
+<h1 align="center">Hi 👋, I'm Gayar</h1>
 <div align="center">
 <h2>Hi 👋, I'm Gayar, I'm a French student in computer science at the University Paris Saclay.</h2>
 </div>
